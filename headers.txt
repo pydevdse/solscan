@@ -1,13 +1,7 @@
 accept:application/json, text/plain, */*
 accept-encoding:gzip, deflate, br, zstd
 accept-language:en-US,en;q=0.9,uk;q=0.8
-:cookie:_ga=GA1.1.1132328535.1746122630; _ga_PS3V7B7KV0=GS1.1.1746122629.1.0.1746122871.0.0.0
 origin:https://solscan.io
-priority:u=1, i
-referer:https://solscan.io/
-sec-ch-ua:"Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
-sec-ch-ua-mobile:?0
-sec-ch-ua-platform:"Windows"
 sec-fetch-dest:empty
 sec-fetch-mode:cors
 sec-fetch-site:same-site

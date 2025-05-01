@@ -73,7 +73,7 @@
                 "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
                 "token_decimals": 9,
                 "token_type": "token",
-                "price_usdt": 151.00649278289092,
+                "price_usdt": 151.16496262102854,
                 "reputation": "ok",
                 "is_show_value": true,
                 "is_calculate_on_portfolio": true,
@@ -87,7 +87,7 @@
                 "token_symbol": "SOL",
                 "token_type": "token",
                 "token_icon": "https://statics.solscan.io/solscan-img/solana_icon.svg",
-                "price_usdt": 151.00649278289092,
+                "price_usdt": 151.16496262102854,
                 "is_show_value": true,
                 "is_calculate_on_portfolio": true,
                 "is_show_icon": true
