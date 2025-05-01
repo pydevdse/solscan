@@ -1,0 +1,147 @@
+{
+    "success": true,
+    "data": {
+        "account": "DLBApwsGc7L3y5821tkU4QSvG7VtR3XGPW4BQb8gmoon",
+        "lamports": 1461600,
+        "ownerProgram": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "type": "token_account",
+        "rentEpoch": 18446744073709552000,
+        "executable": false,
+        "isOnCurve": true,
+        "space": 82,
+        "notifications": {
+            "tags": [
+                "memecoin",
+                "moonshot"
+            ]
+        },
+        "tokenInfo": {
+            "icon": "https://imagedelivery.net/TKv7KPMH2OHcr6ck7xjakw/62ac113e-34e4-46ec-ce0d-6819dbbbd600/public",
+            "token_icon_alternative": null,
+            "decimals": 9,
+            "tokenAuthority": null,
+            "freezeAuthority": null,
+            "supply": "934176404070692237",
+            "ownExtensions": {
+                "description": "Roecoin (ROE) is taking over! \n\n🚀 Submit memes, earn rewards with Proof-of-Humor, and crush it at RoeVegas Casino 🎰💎 \n\nBig plans ahead — when ROE hits $50M MC, we’re giving back to real-world causes! \n\n🌍🔥 Join the wildest community in crypto and spark the revolution! \n\n🌟 beacons.ai/roecoinsol"
+            },
+            "disable_show_origin_icon": 0,
+            "created_tx": "3xEsSJ2ZUKwLoBF4Px7RxzW5oTm574cywok2jvxSUbVW8N5P6NzpKLAxqjuiv39mBQbuu22n9EUkomHweVJHGvYJ",
+            "created_time": 1746112868,
+            "creator": "Bh2M2x1SkjscJWxuNjV8wUCF3V8RcUNPuz1gYzt8D6pR",
+            "first_mint_tx": "3xEsSJ2ZUKwLoBF4Px7RxzW5oTm574cywok2jvxSUbVW8N5P6NzpKLAxqjuiv39mBQbuu22n9EUkomHweVJHGvYJ",
+            "first_mint_time": 1746112868,
+            "type": "token_address"
+        },
+        "metadata": {
+            "key": 4,
+            "updateAuthority": "11111111111111111111111111111111",
+            "mint": "DLBApwsGc7L3y5821tkU4QSvG7VtR3XGPW4BQb8gmoon",
+            "data": {
+                "name": "Roecoin",
+                "symbol": "ROE",
+                "uri": "https://moonitcdn.io/1746112860557-c4r1v9.json",
+                "sellerFeeBasisPoints": 0
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 0,
+            "editionNonce": 255,
+            "tokenStandard": 2
+        }
+    },
+    "metadata": {
+        "tokens": {
+            "DLBApwsGc7L3y5821tkU4QSvG7VtR3XGPW4BQb8gmoon": {
+                "token_address": "DLBApwsGc7L3y5821tkU4QSvG7VtR3XGPW4BQb8gmoon",
+                "token_name": "Roecoin",
+                "token_symbol": "ROE",
+                "token_icon": "https://imagedelivery.net/TKv7KPMH2OHcr6ck7xjakw/62ac113e-34e4-46ec-ce0d-6819dbbbd600/public",
+                "token_decimals": 9,
+                "token_type": "token",
+                "price_usdt": 5.513254814457568e-06,
+                "is_show_value": false,
+                "is_calculate_on_portfolio": false,
+                "is_show_icon": false,
+                "token_icon_alternative": null,
+                "token_label": {
+                    "token_address": "DLBApwsGc7L3y5821tkU4QSvG7VtR3XGPW4BQb8gmoon",
+                    "token_name": "",
+                    "token_symbol": "",
+                    "token_icon": ""
+                }
+            },
+            "So11111111111111111111111111111111111111112": {
+                "token_address": "So11111111111111111111111111111111111111112",
+                "token_name": "Wrapped SOL",
+                "token_symbol": "WSOL",
+                "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+                "token_decimals": 9,
+                "token_type": "token",
+                "price_usdt": 150.8231784643202,
+                "reputation": "ok",
+                "is_show_value": true,
+                "is_calculate_on_portfolio": true,
+                "is_show_icon": true,
+                "token_icon_alternative": null
+            },
+            "So11111111111111111111111111111111111111111": {
+                "token_address": "So11111111111111111111111111111111111111111",
+                "token_decimals": 9,
+                "token_name": "SOL",
+                "token_symbol": "SOL",
+                "token_type": "token",
+                "token_icon": "https://statics.solscan.io/solscan-img/solana_icon.svg",
+                "price_usdt": 150.8231784643202,
+                "is_show_value": true,
+                "is_calculate_on_portfolio": true,
+                "is_show_icon": true
+            }
+        },
+        "accounts": {
+            "DLBApwsGc7L3y5821tkU4QSvG7VtR3XGPW4BQb8gmoon": {
+                "account_address": "DLBApwsGc7L3y5821tkU4QSvG7VtR3XGPW4BQb8gmoon",
+                "account_tags": [
+                    "memecoin",
+                    "moonshot"
+                ],
+                "account_type": "token"
+            },
+            "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA": {
+                "account_address": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                "account_label": "Token Program",
+                "account_icon": "https://statics.solscan.io/solscan-img/solana_icon.svg",
+                "account_tags": [],
+                "account_type": "program"
+            },
+            "11111111111111111111111111111111": {
+                "account_address": "11111111111111111111111111111111",
+                "account_label": "System Program",
+                "account_icon": "https://statics.solscan.io/solscan-img/solana_icon.svg",
+                "account_tags": [],
+                "account_type": "program"
+            }
+        },
+        "tags": {
+            "memecoin": {
+                "tag_id": "memecoin",
+                "tag_name": "Meme",
+                "tag_type": 1,
+                "tag_metadata": {
+                    "icon": "https://statics.solscan.io/solscan-img/meme_coin.png"
+                }
+            },
+            "moonshot": {
+                "tag_id": "moonshot",
+                "tag_name": "Moonit",
+                "tag_type": 1,
+                "tag_metadata": {
+                    "icon": "https://statics.solscan.io/solscan-img/moonit_icon.png",
+                    "website": "https://dexscreener.com/moonshot"
+                }
+            }
+        },
+        "programs": {},
+        "nftCollections": {},
+        "nftMarketplaces": {}
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "success": true,
+    "data": {
+        "account": "4GvsP1a1jknAjZVwdoCq5ShLGxrVyTgwHneSKYPigUgX",
+        "lamports": 1461600,
+        "ownerProgram": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "type": "token_account",
+        "rentEpoch": 18446744073709552000,
+        "executable": false,
+        "isOnCurve": true,
+        "space": 82,
+        "tokenInfo": {
+            "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/AQz9ZPownq1tzqotpKqE7Zp6q5xwpT155fwyhWwPpump.png?size=lg&key=5f40c3",
+            "token_icon_alternative": null,
+            "tokenScores": {
+                "lifetimeScore": 3,
+                "engagementScore": 0,
+                "volatilityScore": 0,
+                "liquidityScore": 0,
+                "tokenScore": 0,
+                "updatedTime": 1745467800
+            },
+            "decimals": 6,
+            "tokenAuthority": null,
+            "freezeAuthority": null,
+            "supply": "146464430592",
+            "ownExtensions": {
+                "description": "AGARTHA"
+            },
+            "disable_show_origin_icon": 0,
+            "created_tx": "CLQ5gsHgkzSVNn2H7bxrzAztvK4ampY4Af3dx82dPNvQ5j4fEychZLMQxRzQ5UXKdjBDuh96ZmZpfErMz7ApiLC",
+            "created_time": 1742840879,
+            "creator": "FRacKkP8pj8ZAooc74QtKnVQBEZ9r9xdC1dBTuK5y3wT",
+            "first_mint_tx": "38REqtU9ied73aUiGEHfqWnrWSW56eBw4WWgYh21YQSz6v1xKgQamZwD3W5wUpZgXujvSCv3znhnMtUxG47EeEW5",
+            "first_mint_time": 1742840879,
+            "type": "token_address"
+        },
+        "metadata": {
+            "key": 4,
+            "updateAuthority": "FRacKkP8pj8ZAooc74QtKnVQBEZ9r9xdC1dBTuK5y3wT",
+            "mint": "4GvsP1a1jknAjZVwdoCq5ShLGxrVyTgwHneSKYPigUgX",
+            "data": {
+                "name": "AGARTHA",
+                "symbol": "AGARTHA",
+                "uri": "https://gateway.pinata.cloud/ipfs/QmTiBHYzvTGrKJUuxQAdT45u5bmVhPp7vRg7MxPupEUyKK",
+                "sellerFeeBasisPoints": 0
+            },
+            "primarySaleHappened": 0,
+            "isMutable": 1,
+            "editionNonce": 255,
+            "tokenStandard": 2
+        }
+    },
+    "metadata": {
+        "tokens": {
+            "4GvsP1a1jknAjZVwdoCq5ShLGxrVyTgwHneSKYPigUgX": {
+                "token_address": "4GvsP1a1jknAjZVwdoCq5ShLGxrVyTgwHneSKYPigUgX",
+                "token_name": "AGARTHA",
+                "token_symbol": "AGARTHA",
+                "token_icon": "https://dd.dexscreener.com/ds-data/tokens/solana/AQz9ZPownq1tzqotpKqE7Zp6q5xwpT155fwyhWwPpump.png?size=lg&key=5f40c3",
+                "token_decimals": 6,
+                "token_type": "token",
+                "price_usdt": 1.4588716e-05,
+                "is_show_value": false,
+                "is_calculate_on_portfolio": false,
+                "is_show_icon": false,
+                "token_icon_alternative": null
+            },
+            "So11111111111111111111111111111111111111112": {
+                "token_address": "So11111111111111111111111111111111111111112",
+                "token_name": "Wrapped SOL",
+                "token_symbol": "WSOL",
+                "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+                "token_decimals": 9,
+                "token_type": "token",
+                "price_usdt": 151.00649278289092,
+                "reputation": "ok",
+                "is_show_value": true,
+                "is_calculate_on_portfolio": true,
+                "is_show_icon": true,
+                "token_icon_alternative": null
+            },
+            "So11111111111111111111111111111111111111111": {
+                "token_address": "So11111111111111111111111111111111111111111",
+                "token_decimals": 9,
+                "token_name": "SOL",
+                "token_symbol": "SOL",
+                "token_type": "token",
+                "token_icon": "https://statics.solscan.io/solscan-img/solana_icon.svg",
+                "price_usdt": 151.00649278289092,
+                "is_show_value": true,
+                "is_calculate_on_portfolio": true,
+                "is_show_icon": true
+            }
+        },
+        "accounts": {
+            "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA": {
+                "account_address": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+                "account_label": "Token Program",
+                "account_icon": "https://statics.solscan.io/solscan-img/solana_icon.svg",
+                "account_tags": [],
+                "account_type": "program"
+            },
+            "FRacKkP8pj8ZAooc74QtKnVQBEZ9r9xdC1dBTuK5y3wT": {
+                "account_address": "FRacKkP8pj8ZAooc74QtKnVQBEZ9r9xdC1dBTuK5y3wT",
+                "account_tags": [
+                    "token_creator"
+                ],
+                "account_type": "address"
+            }
+        },
+        "tags": {
+            "token_creator": {
+                "tag_id": "token_creator",
+                "tag_name": "Token Creator",
+                "tag_type": 1,
+                "tag_metadata": {
+                    "icon": "https://statics.solscan.io/solscan-img/token_creator_icon.svg",
+                    "events": [
+                        {
+                            "screen": "account",
+                            "type": "tab_filter",
+                            "description": "Click to view all tokens created by this account",
+                            "event": "onclick",
+                            "url": "activity_type=ACTIVITY_SPL_INIT_MINT#defiactivities"
+                        }
+                    ]
+                }
+            }
+        },
+        "programs": {},
+        "nftCollections": {},
+        "nftMarketplaces": {}
+    }
+}
